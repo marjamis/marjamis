@@ -9,3 +9,5 @@ I'll also try to update my GitHub website with details to aid in that sharing. H
 ## Stats
 
 [![marjamis' GitHub stats](https://github-readme-stats.vercel.app/api?username=marjamis&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![marjamis' Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marjamis&size_weight=0.5&count_weight=0.5&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
